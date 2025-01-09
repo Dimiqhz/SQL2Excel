@@ -1,1 +1,4 @@
 /venv
+/modules/__pycache__
+/Sample-SQL-File-100-Rows.sql
+/user_details.xlsx
